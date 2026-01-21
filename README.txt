@@ -28,3 +28,4 @@ These animations are built using Flutter’s `Animated` widgets and trigger base
 ---
 **Course:** CS 378, Fall 2024  
 **Instructor:** Prof. Ugo Buy
+** University of Illinois Chicago
